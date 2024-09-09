@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ryantuare.github.io/sitemap.html.gz
+Sitemap: https://ryantuare.github.io/app/sitemap.html.gz
+Sitemap: https://ryantuare.github.io/assets/sitemap.html.gz
+Sitemap: https://ryantuare.github.io/css/sitemap.html.gz
+Sitemap: https://ryantuare.github.io/includes/sitemap.html.gz
+Sitemap: https://ryantuare.github.io/item/sitemap.html.gz
+Sitemap: https://ryantuare.github.io/src/sitemap.html.gz
